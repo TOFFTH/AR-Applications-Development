@@ -11,7 +11,7 @@ Markerless AR Tracking: Investigate markerless AR tracking techniques that enabl
 
 Interaction and User Interface: Explore intuitive and natural ways of interacting with AR content. Develop frameworks or libraries that provide gesture recognition, voice commands, or haptic feedback to enhance user engagement and immersion.
 
-Spatial Mapping and Meshing: Investigate techniques for spatial mapping and mesh generation of real-world environments. Develop tools or frameworks for capturing and reconstructing the physical space, enabling virtual objects to interact realistically with the surroundings.
+Spatial Mapping and Meshing: Investigate techniques for spatial mapping and mesh generation of environments. Develop tools or frameworks for capturing and reconstructing the physical space, enabling virtual objects to interact realistically with the surroundings.
 
 Cross-Platform Compatibility: Emphasize cross-platform compatibility and portability of AR applications. Explore solutions that allow seamless deployment across multiple devices and operating systems, ensuring broad accessibility and reach.
 
