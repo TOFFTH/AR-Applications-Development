@@ -9,8 +9,7 @@ Markerless AR Tracking: Investigate markerless AR tracking techniques that enabl
 
 3D Object Recognition and Tracking: Focus on techniques for recognizing and tracking 3D objects in real-time using computer vision and machine learning algorithms. Develop methods for detecting objects in the environment and overlaying virtual content with accurate alignment and stability.
 
-Interaction and User Interface: Explore intuitive and natural ways of interacting with AR content. Develop frameworks or libraries that provide gesture recognition, voice commands, or haptic feedback to enhance user engagement and immersion.
-
+Interaction and User Interface: Explore intuitive and natural ways of interacting with AR content. Develop frameworks or librarie
 Spatial Mapping and Meshing: Investigate techniques for spatial mapping and mesh generation of environments. Develop tools or frameworks for capturing and reconstructing the physical space, enabling virtual objects to interact realistically with the surroundings.
 
 Cross-Platform Compatibility: Emphasize cross-platform compatibility and portability of AR applications. Explore solutions that allow seamless deployment across multiple devices and operating systems, ensuring broad accessibility and reach.
